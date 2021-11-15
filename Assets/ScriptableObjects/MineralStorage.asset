@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingCost: 150
   resourceTypeCost: 1
-  constructionTime: 10
+  constructionTime: 120
   storageCapacity: 200
   storableRecourse: 0

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingCost: 100
   resourceTypeCost: 1
-  constructionTime: 2
-  productionCycleTime: 2
+  constructionTime: 60
+  productionCycleTime: 30
   getProducedRecourseAmount: 20
   producedRecourseType: 0
